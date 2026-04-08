@@ -1,0 +1,298 @@
+page,project_code,domain,school,title
+64,GBR-18-BI,Biochemistry,Acton-Boxborough Regional High,Novel Method for Remediation of Microplastics and Nanoplastics by Enzymatic Degradation
+100,GBR-54-BCMM,"Biology: Cellular, Molecular, or Microbiology",Acton-Boxborough Regional High,Ameliorating Effects of Hesperidin and Curcumin on Nrf2-Keap1 Parkinson’s Mechanisms in Drosophila
+211,JBR-46-CS,Computer Science and Technology,Acton-Boxborough Regional High,Creating HASS: a Hyper Adaptive Synergistic Scaling for AI Optimizers
+212,JBR-47-CS,Computer Science and Technology,Acton-Boxborough Regional High,High-Efficiency Geometric Adaptation (Hega): A Geometry-Aware First-Order Optimizer With Strong Nonconvex
+213,JBR-48-CS,Computer Science and Technology,Acton-Boxborough Regional High,Deforestation Quantification in Satellite Images using Self Supervised Learning & Generative AI
+45,AB-46-EES,Earth and Environmental Science,Acton-Boxborough Regional High,Satellite Analysis and Visualization of Nitrogen Dioxide Columns during Cuba’s October 2024 Blackout
+287,PGBR-38-EE,Engineering: Electrical and Mechanical,Acton-Boxborough Regional High,"BioBeacon: A Low-Cost, Insect-Inspired, Stigmergic Swarm of Sensorized Robots for Accelerated Autonomous"
+17,AB-17-BE,Behavioral and Social Sciences,Al Noor Academy,The Gravity of the Group
+28,AB-29-EES,Earth and Environmental Science,Al Noor Academy,"Small Particles, Big Impact: Assessing Microplastic Pollution in Massachusetts Water"
+29,AB-30-EES,Earth and Environmental Science,Al Noor Academy,"Banana Plastic: Evaluating the Strength, Flexibility, and Real-World Potential of Banana-Peel Bioplastic"
+285,PGBR-36-EE,Engineering: Electrical and Mechanical,Al Noor Academy,The Power of the Perfect Angle
+19,AB-19-BE,Behavioral and Social Sciences,Algonquin Regional High,Detection of Alzhemier's Disease and Related Dementia(ADRD) and Cognitive Impairment: Impacts and Supports
+193,JBR-28-CS,Computer Science and Technology,Andover High,AI-Based Early Detection of Cognitive Decline in Cancer Patients Using the MIMIC-IV Dataset
+202,JBR-37-CS,Computer Science and Technology,Andover High,Learning Disturbance Models to Improve Precision in Autonomous Control Systems
+249,CD-38-EB,Engineering: Biomedical,Andover High,Automated Dental Caries Detection and Risk Classification Using YOLOv8 Object Detection and a Custom Cavity
+277,PGBR-28-EE,Engineering: Electrical and Mechanical,Andover High,Printing 2D MXene-Based Chipless Radio Frequency Identification Tags to Enable Plastic Waste Sorting for
+284,PGBR-35-EE,Engineering: Electrical and Mechanical,Arlington High,Using Sound Wave Frequency to Predict Avocado Ripeness and Reduce Food Waste
+288,PGBR-39-EE,Engineering: Electrical and Mechanical,B M C Durfee High,SelfHealingCognitiveRadioForRemoteAreas: The Utilization of Decision Tree ML to Have a LoRa Network Self
+13,AB-13-BE,Behavioral and Social Sciences,Bancroft School,The Impact of Different Modes of News Media Consumption on Extremist Political Beliefs
+121,GBR-76-BEPA,"Biology: Evolution, Plant and Animal Science",Bancroft School,Effects of the Combined T-DNA Insertion Mutant of TMM Gene and EPF2 Gene in Arabidopsis Thaliana on Drought
+323,PJBR-12-PH,Physics,Beaver Country Day School,The Strength of Softness - Redesigning The Whipple Shield
+190,JBR-25-CS,Computer Science and Technology,Bedford High,Audio Augmented Reality for the Night Sky: A Music-theoretic and Spatial Sonification Approach
+40,AB-41-EES,Earth and Environmental Science,Bedford High,Iron Oxide (Red vs. Yellow vs. Brown) Pigments in Acrylic Paint against Environmental Stressors
+5,AB-04-BE,Behavioral and Social Sciences,Belchertown High,Mindset Over Mistakes: Measuring the Impact of Mindset Training on Gymnasts’ Confidence and Performance
+273,PGBR-24-EE,Engineering: Electrical and Mechanical,Belmont High,Carbon Quantum Dot-Integrated Nanocomposite Dielectrics for Enhanced Capacitor Performance
+321,PJBR-10-PH,Physics,Belmont High,Is Synchronization Fundamental? How Mechanical Systems and Harmonic Forces Mutually Shape Each Other
+71,GBR-25-BCMM,"Biology: Cellular, Molecular, or Microbiology",Berkshire School,"The Effects of Blue Light on the Proliferation, Differentiation, and Inflammatory Cytokine Secretion Functions of"
+219,CD-06-EB,Engineering: Biomedical,Berkshire School,From EEG to Spectrogram Images: Using Image Generation Models to Reconstruct Sound Stimuli from EEGs
+220,CD-07-EB,Engineering: Biomedical,Berkshire School,EEG Headset for Clinical Language Rehabilitation: Neural Oscillations in Multi-Task Assessment of Speech
+314,PJBR-03-PH,Physics,Berkshire School,Molecular Dynamics Studies of Underwater Adhesion Using Bio-Inspired Peptides
+22,AB-22-BE,Behavioral and Social Sciences,Billerica Memorial High School,Exploring Sleep Recovery Through Negative Geotaxis in Drosophila
+130,GBR-85-BEPA,"Biology: Evolution, Plant and Animal Science",Billerica Memorial High School,A Novel Approach to Reducing Racial Bias in Pulse Oximetery
+187,JBR-22-CS,Computer Science and Technology,Billerica Memorial High School,TEMPO: A Novel Hybrid Neuromorphic Framework for Efficient and Interpretable Integration of Multi-Omic
+243,CD-31-EB,Engineering: Biomedical,Billerica Memorial High School,Forecasting Structural Knee Osteoarthritis Progression with Multimodal AI
+279,PGBR-30-EE,Engineering: Electrical and Mechanical,Billerica Memorial High School,Electric Eel-Inspired Batteries For Implantable Medical Devices
+136,GBR-91-BEPA,"Biology: Evolution, Plant and Animal Science",Bishop Feehan High School,Plan it Mars
+317,PJBR-06-PH,Physics,Bishop Feehan High School,Best Sound Insulators
+12,AB-12-BE,Behavioral and Social Sciences,Blackstone Valley,When Seeing Overrides Feeling: How Virtual Reality Influences Object Recognition and Perception
+87,GBR-41-BCMM,"Biology: Cellular, Molecular, or Microbiology",Blackstone Valley,How Does Microbe Type Affect the Electrical Output of a Microbial Fuel Cell?
+125,GBR-80-BEPA,"Biology: Evolution, Plant and Animal Science",Blackstone Valley,Exploring Sustainable Agriculture through Soil Carbon Sequestration
+166,JBR-01-AS,Astronomy and Space Science,Boston College High School,Photometric Pipeline for Exoplanet Transit Detection using Ground-Based Small Aperture Telescope
+169,JBR-04-AS,Astronomy and Space Science,Boston Latin Academy,Detecting and Modeling Prebiotic Signatures in Exoplanet Atmospheres
+21,AB-21-BE,Behavioral and Social Sciences,Boston Latin School,Multitasking Mania: Identifying Factors That Influence Successful Performance
+61,GBR-15-BI,Biochemistry,Boston Latin School,AI-Driven Drug Repurposing for Glioblastoma Brain Cancer with Experimental Validation
+108,GBR-62-BCMM,"Biology: Cellular, Molecular, or Microbiology",Boston Latin School,Are Our Bacteria Passive Smokers
+109,GBR-63-BCMM,"Biology: Cellular, Molecular, or Microbiology",Boston Latin School,Comparative Effects of Antioxidants and Antioxidant Enhancing Compounds on Heat Induced Oxidative Stress
+110,GBR-64-BCMM,"Biology: Cellular, Molecular, or Microbiology",Boston Latin School,Identifying a Receptor for a Newly Discovered Gene Therapy Vector
+155,GBR-113-CH,Chemistry,Boston Latin School,Creating and Utilizing Metal-Organic Framework Technologies in Carbon Dioxide Filtration to Reduce Factory
+38,AB-39-EES,Earth and Environmental Science,Boston Latin School,Investigation of the Multiyear Effects of Road Salting Practices on Muddy River Salinity Levels Over Time
+39,AB-40-EES,Earth and Environmental Science,Boston Latin School,Global Analysis of the Effects of Fire Activity on Solar-induced Chlorophyll Fluorescence (SIF) Using Machine
+41,AB-42-EES,Earth and Environmental Science,Boston Latin School,Exploring the Real-World Feasibility of PET-Plastic Degradation by TfCut2 Enzymes for Plastic Bioremediation
+46,AB-47-EES,Earth and Environmental Science,Boston Latin School,Impact of Battery Sizing and Operational Conditions on Degradation and Lifetime in Solar-Plus-Storage Energy
+247,CD-36-EB,Engineering: Biomedical,Boston Latin School,Characterizing Cellular and Molecular Drivers of Diabetic Retinopathy through Bioinformatic Analysis of
+163,GBR-122-MA,Mathematics and Computational Modeling,Boston Latin School,A Quantum Computational Approach to Identify Potential Pan-Cancer Metastasis Biomarker Sequences
+165,GBR-124-MA,Mathematics and Computational Modeling,Boston Latin School,Optimizing T-Cell-Mediated Cancer Killing: An Agent-Based Model
+253,PGBR-03-EE,Engineering: Electrical and Mechanical,Boston Trinity Academy,A Fully Self-Powered Autonomous Renewable Energy System with Triboelectric-Driven Control and Theoretical
+176,JBR-11-CS,Computer Science and Technology,Boston University Academy,Incorporating Differential Geometric Features into Deep Learning Models for Lung Cancer Screening
+216,CD-03-EB,Engineering: Biomedical,Boston University Academy,3D Printed Static/Dynamic Finger Fracture Fixator
+137,GBR-92-BEPA,"Biology: Evolution, Plant and Animal Science",Bristol-Plymouth Vocational Technical,The Effect of Microgravity on Plant Growth
+27,AB-28-EES,Earth and Environmental Science,Bristol-Plymouth Vocational Technical,From Hair to Habitat: Breaking Down Cosmetic Pollution
+30,AB-31-EES,Earth and Environmental Science,Bristol-Plymouth Vocational Technical,The Effects of Different Percentages of Vermicompost on Different Vegetable Types.
+167,JBR-02-AS,Astronomy and Space Science,Brockton High,Testing the Redshift Evolution of the Host Galaxy Mass Bias in Type 1a Supernova Hubble Residuals
+133,GBR-88-BEPA,"Biology: Evolution, Plant and Animal Science",Brockton High,Lignification in Schlumbergera Supports a Structural Rather Than Localized Reinforcement Role
+194,JBR-29-CS,Computer Science and Technology,Bromfield,A Severity-Aware Reinforcement Learning System for Optimizing Abdominal Hemorrhage Resuscitation in
+250,CD-39-EB,Engineering: Biomedical,Bromfield,Evaluating Machine Learning Models for Predicting Ciprofloxacin Resistance in Escherichia coli using Genomic
+179,JBR-14-CS,Computer Science and Technology,Brookline High,AQD - Apple Quality Detector
+154,GBR-112-CH,Chemistry,Brooks School,Structure-Guided Computational Design of Bispecific Complement Engagers (BiCE) Molecules Targeting NCAM1
+14,AB-14-BE,Behavioral and Social Sciences,Buckingham Browne & Nichols School,"The Association between BMI, Demographic Factors, and Progression to Multiple Myeloma"
+195,JBR-30-CS,Computer Science and Technology,Buckingham Browne & Nichols School,Vision-Language Object Detection for Drone-Based Natural Disaster Monitoring and Damage Assessment
+201,JBR-36-CS,Computer Science and Technology,Buckingham Browne & Nichols School,The Breaking Point: A Holistic Approach to Forecasting Socio-Economic Distress and Structural Breaks Under
+236,CD-24-EB,Engineering: Biomedical,Buckingham Browne & Nichols School,DermaSpectra DeepVision: A Multispectral Imaging System for Enhanced Dermatologic Diagnosis Powered by a
+186,JBR-21-CS,Computer Science and Technology,Burlington High,Predicting Mutated Genes in Multiple Myeloma from Blood-Smear Whole-Slide Images: An Early Exploration
+204,JBR-39-CS,Computer Science and Technology,Cambridge Rindge and Latin,Early Fault-Tolerant Quantum Algorithms for Predicting Market Crashes
+150,GBR-106-CH,Chemistry,Chelmsford High,Chemical Analysis of Stagnation in Pipelines on Water Quality and Effectiveness of Subsequent Treatment with
+139,GBR-94-CH,Chemistry,Commonwealth School,Self-Supervised Permutation and Interpolation Based Noise2Noise Denoiser (SPIN) for Voltage Imaging
+59,GBR-13-BI,Biochemistry,Concord Academy,Exploring Enzyme Kinetics of OATP1A2 to Aid in Drug Delivery Across the BBB
+89,GBR-43-BCMM,"Biology: Cellular, Molecular, or Microbiology",Concord Academy,Aluminum Trichloride Induced AD Model in Zebrafish Larvae Exhibits Neurological Impairment
+105,GBR-59-BCMM,"Biology: Cellular, Molecular, or Microbiology",Concord Academy,SRPK1 Modulates Survival Signaling Pathways in Parkinson’s Disease: Evidence from Integrative Transcriptomics
+198,JBR-33-CS,Computer Science and Technology,Concord Academy,Uncertainty Aware Adaptive Huber Loss Federated Distillation for Thermal Anomaly Detection in UAV Networks
+230,CD-18-EB,Engineering: Biomedical,Concord Academy,From Ocean to Oncology: Harnessing Seaweed for Targeted Colorectal Cancer Drug Delivery
+325,PJBR-14-PH,Physics,Concord Academy,Unraveling J/ψ Production Mechanism: Extraction of J/ψ NRQCD Long Distance Matrix Elements through
+192,JBR-27-CS,Computer Science and Technology,Cushing Academy,Multi-Agent UAV Swarm Real-Time Safe Passage Mapping System for Fire Rescue
+141,GBR-96-CH,Chemistry,Dana Hall School,Esterified Tea Waste Hard Carbon for Sodium-Ion Batteries
+62,GBR-16-BI,Biochemistry,Dearborn STEM Academy,The Effects of pH on the Reaction of Catalase
+8,AB-07-BE,Behavioral and Social Sciences,Deerfield Academy,POEM-KD: Persona-Oriented Efficient Model for Poetry Rewriting with Knowledge Distillation
+315,PJBR-04-PH,Physics,Deerfield Academy,Protein Conformational Transitions: Pathway Modeling Using Nudged Elastic Band and Linear Interpolation and
+316,PJBR-05-PH,Physics,Dessalines STEAM Academy,Investigating Pluvial Flooding in Brockton Using AI and a Physical Rainfall Model
+3,AB-02-BE,Behavioral and Social Sciences,Discovery Polytech Early College High School,The Sweet Influence : How Labels Shape Our Perception on Dessert Taste
+6,AB-05-BE,Behavioral and Social Sciences,Discovery Polytech Early College High School,The Effects of Music in The Brain: Musicians and Non-Musicians
+9,AB-09-BE,Behavioral and Social Sciences,Discovery Polytech Early College High School,Do Immersive VR Scenarios Reveal a Mismatch Between Perceived Stress and Physiological Response
+70,GBR-24-BCMM,"Biology: Cellular, Molecular, or Microbiology",Dover-Sherborn Regional High,Testing Miro & Milton Embryonic Impact on Myonuclear Spacing in Drosophila Melanogaster
+172,JBR-07-CS,Computer Science and Technology,Dover-Sherborn Regional High,Rescue Reach: A Modular AI-Enabled Robotic System for Disaster Search and Rescue
+256,PGBR-06-EE,Engineering: Electrical and Mechanical,Eaglebrook School,An Elephant Trunk-Inspired Modular Variable Stiffness Soft Robot
+44,AB-45-EES,Earth and Environmental Science,East Boston High,Detecting Microplastics In East Boston Beach Sediments Using Methylene Blue
+184,JBR-19-CS,Computer Science and Technology,Everett High,From Novice to Investor: A Learning App for Stock Market Fundamentals
+185,JBR-20-CS,Computer Science and Technology,Everett High,Screen Time's Impact on the Adolescent Brain
+286,PGBR-37-EE,Engineering: Electrical and Mechanical,Everett High,Accessible Wheelchair Entrance to Public Buildings
+2,AB-01-BE,Behavioral and Social Sciences,Falmouth Academy,How Ballot Order Can Affect Voter Behavior
+68,GBR-22-BCMM,"Biology: Cellular, Molecular, or Microbiology",Falmouth Academy,Enzymatic Degradation of Colored PET by Ideonella sakaiensis
+267,PGBR-17-EE,Engineering: Electrical and Mechanical,Falmouth Academy,Inverse Filtration of RIRs Identified by Adaptive Filters
+50,GBR-03-BI,Biochemistry,Falmouth High,Tracking Inorganic Mercury in Marine Bacteria and Phytoplankton
+65,GBR-19-BI,Biochemistry,Foxborough Regional Charter School,Peroxynitrite-Induced Suppression of NAD+ Dependent Lactate Dehydrogenase Activity in Alzheimer's Disease
+81,GBR-35-BCMM,"Biology: Cellular, Molecular, or Microbiology",Foxborough Regional Charter School,Evaluating the Efficacy of Natural Agents for Preventing Aggregation and Promoting Dissolution in Calcium
+135,GBR-90-BEPA,"Biology: Evolution, Plant and Animal Science",Foxborough Regional Charter School,An Analysis on The Optimal Fruit to Promote Drosophila Longevity
+183,JBR-18-CS,Computer Science and Technology,Foxborough Regional Charter School,Predictive Modeling for Prime Investment Decisions
+208,JBR-43-CS,Computer Science and Technology,Framingham High School,Developing an Uncertainty-Aware Machine Learning Framework for Improved Ranking of AXL Kinase Inhibitors
+112,GBR-66-BCMM,"Biology: Cellular, Molecular, or Microbiology",Franklin High,Investigating The Neuroprotective Effects of C.Asiatica on Lithium-Deficient Saccharomyces cerevisiae Cells as a
+182,JBR-17-CS,Computer Science and Technology,Franklin High,TinyML-Based Sensor Fusion for Anomaly Detection in a Model Jet Turbine System
+47,AB-48-EES,Earth and Environmental Science,Franklin High,From Air to Earth: The Mineralization Method
+241,CD-29-EB,Engineering: Biomedical,Franklin High,"Striking the Mind: A Low Cost, AI Powered EEG Sensor Measuring Alpha and Beta Wavelengths."
+268,PGBR-18-EE,Engineering: Electrical and Mechanical,Franklin High,Electronic Nose for Pheromone Detection of Plutella Xylostella using a Custom Machine Learning Model
+160,GBR-119-MA,Mathematics and Computational Modeling,Franklin High,Decoding Phenotype-Gene-Disease Networks using Explainable AI
+111,GBR-65-BCMM,"Biology: Cellular, Molecular, or Microbiology",Grafton High School,Testing and Developing a Reliable Enzyme Encapsulation System for β-Galactosidase
+153,GBR-111-CH,Chemistry,Grafton High School,From Pollution to Power: Testing Tin-Copper Nanoflowers to Turn CO2 into Formate
+240,CD-28-EB,Engineering: Biomedical,Grafton High School,Robotic Medication and Cognitive-Assessment App to Enhance Memory Retention in Alzheimer’s Patients
+282,PGBR-33-EE,Engineering: Electrical and Mechanical,Grafton High School,Improving Accelerative Efficiency of Solar Sails
+283,PGBR-34-EE,Engineering: Electrical and Mechanical,Grafton High School,Optimization of a Low-Cost Prosthetic Hand
+66,GBR-20-BI,Biochemistry,Groton School,HARMONIQ: A Novel Deep Learning Pipeline for the Discovery of Small Molecule Inhibitors of MAO-B as
+94,GBR-48-BCMM,"Biology: Cellular, Molecular, or Microbiology",Groton School,Keeping Time in Space: How DNA Damage-Induced PAR Signaling Alters Circadian Proteins
+242,CD-30-EB,Engineering: Biomedical,Groton School,Bionic Skin: A Multimodal Sensor-Based Artificial Skin for Diabetic Foot Ulcer Prevention
+245,CD-34-EB,Engineering: Biomedical,Groton School,Expanding Access to Hematologic Diagnostics with HEMAger: An AI-Powered 3D-Printed Microscopy Platform
+156,GBR-114-CH,Chemistry,Home School - Blackstone,Blocking the Burn: A Comparative Study of the Effectiveness of Sunscreen
+224,CD-11-EB,Engineering: Biomedical,Home School - Sharon,SpineRAI: Intelligent AI-Robotic System for Pedicle Screw Planning and Surgery
+74,GBR-28-BCMM,"Biology: Cellular, Molecular, or Microbiology",Hopkins Academy,The Effects of Sleep Deprivation on the Teenage Brain
+221,CD-08-EB,Engineering: Biomedical,Hopkins Academy,Testing Hand Sanitizer
+85,GBR-39-BCMM,"Biology: Cellular, Molecular, or Microbiology",Hopkinton High,Effect of a Weak Electric Field on Drug-Like Molecular Transport Across a Model Blood-Brain Barrier.
+120,GBR-75-BEPA,"Biology: Evolution, Plant and Animal Science",Hopkinton High,Noninvasive Inference of Presymptomatic Plant Stress from Latent Electrophysiological Dynamics via Action
+157,GBR-115-CH,Chemistry,Hopkinton High,Recovery of Dialysis Tubing After Heat Stress
+234,CD-22-EB,Engineering: Biomedical,Hopkinton High,Detecting Wound Infections via pH and Temperature Sensing
+269,PGBR-20-EE,Engineering: Electrical and Mechanical,Hopkinton High,Kinetic Energy Harvester to Power Small Devices
+91,GBR-45-BCMM,"Biology: Cellular, Molecular, or Microbiology",Lexington High,Molecular Simulation of Synaptic Protein Liquid–Liquid Phase Separation: Modeling CaMKII and PSD-95 with
+92,GBR-46-BCMM,"Biology: Cellular, Molecular, or Microbiology",Lexington High,The Hive Mind of Microorganisms: Impacts of Natural Remedies on Quorum Sensing for Disease Prevention
+95,GBR-49-BCMM,"Biology: Cellular, Molecular, or Microbiology",Lexington High,Rewriting the Epigenome: The Effect of Stress-Related Psychiatric Disorders on Genome-Wide H3K4me3 Patterns
+199,JBR-34-CS,Computer Science and Technology,Lexington High,A Unified Protein Embedding Model with Local and Global Structural Sensitivity
+203,JBR-38-CS,Computer Science and Technology,Lexington High,Pathway-Level Machine Learning Analysis of Breast Cancer Gene Expression Data for siRNA Target Prioritization
+237,CD-25-EB,Engineering: Biomedical,Lexington High,"VoxNeuro: A Low-Cost, Accessible Multimodal System Integrating Wearable Gait Monitoring and Grassmannian"
+162,GBR-121-MA,Mathematics and Computational Modeling,Lexington High,Malaria Transmission Dynamics Modeling for Optimized Insecticide-Treated Net Allocation
+326,PJBR-15-PH,Physics,Lexington High,Bridging Sleep Instability and Brain Criticality Using the Ising Model
+55,GBR-09-BI,Biochemistry,Lincoln-Sudbury Regional High,A Hybrid Quantum-Classical Computational Study of Energetic and Conformational Differences in Amyloid-β
+124,GBR-79-BEPA,"Biology: Evolution, Plant and Animal Science",Lincoln-Sudbury Regional High,"From Detection to Prescription: A Frugal, On-Device Multimodal AI System for Real-Time Plant Disease Diagnosis"
+99,GBR-53-BCMM,"Biology: Cellular, Molecular, or Microbiology",Littleton High School,Effect of Resveratrol and Turmeric on Tumor Growth in Hydra littoralis
+35,AB-36-EES,Earth and Environmental Science,Littleton High School,Evaluating Environmental Pollutants Using a Biodegradable Algae-Based Enzyme Biosensor
+233,CD-21-EB,Engineering: Biomedical,Littleton High School,Non-Invasive Iron Deficiency Detector to Improve Early Detection of Iron Deficiency without Anemia Utilizing the
+210,JBR-45-CS,Computer Science and Technology,Lowell High,AI Trash Cleaning: Using AI and Machine Learning to Identify and Clean Up Trash from Bodies of Water
+67,GBR-21-BCMM,"Biology: Cellular, Molecular, or Microbiology",Maimonides School,Investigating Environmental DNA for Tetracycline Resistance Across Various Soil Sites
+57,GBR-11-BI,Biochemistry,Malden Catholic High School,Enzymatic Degradation of Polylactic Acid
+170,JBR-05-AS,Astronomy and Space Science,Mansfield High,Using Machine Learning for Exoplanet Detection
+228,CD-16-EB,Engineering: Biomedical,Mansfield High,Analysis of the Hyperextension of the Tibia Relative to the Femur to Indicate the Laxity of the Anterior Cruciate
+280,PGBR-31-EE,Engineering: Electrical and Mechanical,Marblehead High,Biomimetic Ornithopter Modeled on Dragonfly Flight
+263,PGBR-13-EE,Engineering: Electrical and Mechanical,Martha's Vineyard Regional High,The Bridge Design Project
+171,JBR-06-AS,Astronomy and Space Science,Masconomet Regional High School,Increasing the Accuracy of Exoplanet Detection and Classification via the Aitchison-Partal Exoplanet (APEX)
+15,AB-15-BE,Behavioral and Social Sciences,Massachusetts Academy of Math & Science at WPI,Researching the Effects of Indian Carnatic Music on the Behavior of Drosophila melanogaster in an Autism
+96,GBR-50-BCMM,"Biology: Cellular, Molecular, or Microbiology",Massachusetts Academy of Math & Science at WPI,The Effects of Transgenerational Epilepsy on Dementia Pathology in C. elegans
+97,GBR-51-BCMM,"Biology: Cellular, Molecular, or Microbiology",Massachusetts Academy of Math & Science at WPI,Parental Pharmacological Modulation of Serotonergic Signaling in C. elegans to Analyze Hereditary Suicide.
+98,GBR-52-BCMM,"Biology: Cellular, Molecular, or Microbiology",Massachusetts Academy of Math & Science at WPI,Neuroprotective Effects of Insulin Signaling Modulation in an Alzheimer’s Model
+129,GBR-84-BEPA,"Biology: Evolution, Plant and Animal Science",Massachusetts Academy of Math & Science at WPI,The Effect of Microplastic Type on the Heart Rate of Filial Generation D. magna
+152,GBR-110-CH,Chemistry,Massachusetts Academy of Math & Science at WPI,Modeling Annihilator to Sensitizer Ratios for Optimal Light Intensity in TTA Upconversion
+191,JBR-26-CS,Computer Science and Technology,Massachusetts Academy of Math & Science at WPI,Fusion-Based Driver State Monitoring: A Multimodal Approach to Drowsiness Mitigation
+238,CD-26-EB,Engineering: Biomedical,Massachusetts Academy of Math & Science at WPI,Intelligent Impact-Sensing Liner for Youth Female Athlete Safety
+275,PGBR-26-EE,Engineering: Electrical and Mechanical,Massachusetts Academy of Math & Science at WPI,Self-Assembling Modular Robots Enabled by an Articulated Multi-Axis Connector
+276,PGBR-27-EE,Engineering: Electrical and Mechanical,Massachusetts Academy of Math & Science at WPI,Improving Airfoil Efficiency Using Deployable Vortex Generators with Surrogate-Based Control
+324,PJBR-13-PH,Physics,Medford High,Using the Magnus and Seam Shifted Wake Effects to Find the Perfect Pitch in Baseball
+49,GBR-02-BI,Biochemistry,Medway High,Decoding the Gut-Heart Connection: Computational Analysis of Imidazole Propionate Interaction with Cage
+54,GBR-07-BI,Biochemistry,Middlesex School,VOCPAHs Blocker: An Eco-Friendly Solution for Suppression of Toxic Carbon Compound Emissions from Artificial
+239,CD-27-EB,Engineering: Biomedical,Middlesex School,Nanosensing of Neurofilament Light Chain for Early Amyotrophic Lateral Sclerosis Diagnosis
+209,JBR-44-CS,Computer Science and Technology,Milford High,Reducing Recycling Contamination Through AI-Powered Waste Classification: Development of an Automated
+215,CD-01-EB,Engineering: Biomedical,Milton Academy,Prediction of Cystoid Macular Edema from Retinal Vasculitis Fluorescein Angiography Images Using
+217,CD-04-EB,Engineering: Biomedical,Milton Academy,Machine Learning Powered Corneal Topographer for Disease Detection
+223,CD-10-EB,Engineering: Biomedical,Milton Academy,An Ultra-Low-Cost Semi-Rigid Exoskeleton for Equitable Orthopaedic Rehabilitation and Walking
+103,GBR-57-BCMM,"Biology: Cellular, Molecular, or Microbiology",Minuteman Regional High,Delivery of Fluorescent Markers to MDCK and BHK Cells via Iron-Based Nanoparticles
+131,GBR-86-BEPA,"Biology: Evolution, Plant and Animal Science",Minuteman Regional High,Project VecotorScan
+34,AB-35-EES,Earth and Environmental Science,New Liberty Innovation School,How Does Temperature Affect Medicinal Production in Fungi?
+58,GBR-12-BI,Biochemistry,Newton Country Day School,Buffering the Burn: Optimizing Sodium Bicarbonate Supplementation to Mitigate Exercise-induced Acidosis
+75,GBR-29-BCMM,"Biology: Cellular, Molecular, or Microbiology",Newton Country Day School,The Effectiveness of Natural versus Synthetic Anti-Fungal Preservatives when Deterring Blue Mold Growth on
+77,GBR-31-BCMM,"Biology: Cellular, Molecular, or Microbiology",Newton Country Day School,Using a Wound-Healing Model in Drosophila melanogaster to Examine Plasmatocyte Migration and Cell Division
+259,PGBR-09-EE,Engineering: Electrical and Mechanical,Newton Country Day School,Adaptive iPad Mount and Case for Individuals with Motor Disabilities
+79,GBR-33-BCMM,"Biology: Cellular, Molecular, or Microbiology",Newton North High,Gene Expression in Different Breast Cancers Cells
+266,PGBR-16-EE,Engineering: Electrical and Mechanical,Newton North High,Evaluating the Durability of Artemia Cyst-inspired Composite Architecture
+52,GBR-05-BI,Biochemistry,Newton South High,Fluctuations of Condensed Counterions on B-DNA
+106,GBR-60-BCMM,"Biology: Cellular, Molecular, or Microbiology",Newton South High,Comparative Effectiveness of Traditional and Modern Antimicrobial Agents Against Escherichia coli
+181,JBR-16-CS,Computer Science and Technology,Noble And Greenough School,Low-Cost Robotic Arms Cooperative Knot Tying Using Whole-Arm Manipulation
+226,CD-13-EB,Engineering: Biomedical,Noble And Greenough School,HandSplatter: Automated Digital Goniometry Using Neural Rendering
+168,JBR-03-AS,Astronomy and Space Science,North Attleboro High,Low Earth Orbit Active Debris Removal System using a CNN
+80,GBR-34-BCMM,"Biology: Cellular, Molecular, or Microbiology",North Attleboro High,Machine Learning–Based Prediction of Phage–Host Interactions and Coverage Optimization Using Genomic
+227,CD-14-EB,Engineering: Biomedical,North Attleboro High,Noninvasive Skin Hydration Monitoring Using Skin Conductivity
+229,CD-17-EB,Engineering: Biomedical,North Attleboro High,The Detection of Breast Cancer Cells using Artificial Intelligence (AI)
+159,GBR-118-MA,Mathematics and Computational Modeling,North Attleboro High,The Effects of Neural Noise on the Stability of Excitation–Inhibition Driven Oscillations in a Computational Brain
+117,GBR-72-BEPA,"Biology: Evolution, Plant and Animal Science",North Quincy High,Chemical Fertilizers and the UV-B Tolerance of Plant Cells
+143,GBR-98-CH,Chemistry,North Quincy High,The Peel Deal: Using Varying Amounts of Acetic Acids to Strengthen Bioplastic From Banana Peels
+24,AB-24-EES,Earth and Environmental Science,North Quincy High,The Effect of Different Materials For Water Contamination Filtration
+222,CD-09-EB,Engineering: Biomedical,North Quincy High,Introducing ValSal: A Levonorgestrel and Estrogen Intrauterine Device (LNG-ESG-IUD) Designed to Suppress
+257,PGBR-07-EE,Engineering: Electrical and Mechanical,North Quincy High,Using Sustainable Energy Sources to Measure Maximum Thrust Capacity of a Model Rocket
+101,GBR-55-BCMM,"Biology: Cellular, Molecular, or Microbiology",North Reading High,"The Impact of Increased Salt Concentrations on Fungi-Bacteria Ratios in Local Topsoils, and an Exploration Into"
+102,GBR-56-BCMM,"Biology: Cellular, Molecular, or Microbiology",North Reading High,The Effects of Chlorine on the Structure and Integrity of Different Types of Human Hair
+140,GBR-95-CH,Chemistry,Northfield Mount Hermon School,UV Protection and Antimicrobial Hydrogel of Sodium Alginate/ Nano Silica-Zinc Hydroxide and Its Biodegradable
+26,AB-27-EES,Earth and Environmental Science,Northfield Mount Hermon School,Modeling the Invasive Spread of Oriental Bittersweet and Quantifying Bias in Citizen Science Data
+255,PGBR-05-EE,Engineering: Electrical and Mechanical,Northfield Mount Hermon School,FluxWave: Topology-Guided Electromagnetic Induction for Distributed Wave Power
+258,PGBR-08-EE,Engineering: Electrical and Mechanical,Northfield Mount Hermon School,High Precision Sensor Synchronization for Artistic Athletic Performance Analysis and Judging using Wearable
+158,GBR-117-MA,Mathematics and Computational Modeling,Northfield Mount Hermon School,KineSync (Neural Network System for Biomechanical Archetype Classification in Sprinting)
+149,GBR-105-CH,Chemistry,Notre Dame Cristo Rey High School,Chemistry: Power Peel Plastics
+20,AB-20-BE,Behavioral and Social Sciences,O'Bryant School Math/Science,An Examination of Age-Dependent Cognitive Attributions of Luck and Skill in Success Outcomes
+138,GBR-93-CH,Chemistry,O'Bryant School Math/Science,VoltMate :Transmitter and Receiver
+214,JBR-49-CS,Computer Science and Technology,O'Bryant School Math/Science,Transforming Language Learning: A Fun and Scalable Game-Based Platform for Students
+327,PJBR-16-PH,Physics,O'Bryant School Math/Science,How Does Changing the PWM Duty Cycle Affect the Magnetic Field Strength and Core Saturation Behavior of an
+11,AB-11-BE,Behavioral and Social Sciences,Phillips Academy,SmartBlink: Real-Time AI-Driven Adaptive Pedestrian Traffic System for Enhancing Perceived Pedestrian Safety
+196,JBR-31-CS,Computer Science and Technology,Phillips Academy,Galaxy Classification Based on Machine Learning
+37,AB-38-EES,Earth and Environmental Science,Phillips Academy,Analysis of Water Level Behavior and Residual Surge During Extreme Flooding Events
+278,PGBR-29-EE,Engineering: Electrical and Mechanical,Phillips Academy,Liquid-metal Electronic Skin Helps Modular Continuum Robot Realizing Self-sensing
+197,JBR-32-CS,Computer Science and Technology,Pioneer Charter School of Science,A Smart Microcontroller-Based Visual and Light Feedback System Using ESP32-CAM and OLED Technology
+33,AB-34-EES,Earth and Environmental Science,Pioneer Charter School of Science,Which Filtration Method Can Most Efficiently Remove Microplastics?
+36,AB-37-EES,Earth and Environmental Science,Pioneer Charter School of Science,Swimming in Silver: The Effects of Nano-silver on Daphnia Heart Rate
+18,AB-18-BE,Behavioral and Social Sciences,Pioneer Charter School of Science II (PCSS-II),Assessing the Behavioral and Reproductive Effects of Teabag-Derived Micro- and Nanoplastics in Caenorhabditis
+132,GBR-87-BEPA,"Biology: Evolution, Plant and Animal Science",Pioneer Charter School of Science II (PCSS-II),Evaluating the Biological Safety of Red 40 versus Beetroot-Derived Natural Colorant Using C. elegans
+175,JBR-10-CS,Computer Science and Technology,Pope Francis Preparatory School (Springfield),Body Posture and First Touch Performance in Soccer: Automated Detection and Scoring
+313,PJBR-01-PH,Physics,Quincy High,Articulated Arm with Integrated Power
+10,AB-10-BE,Behavioral and Social Sciences,Rivers School,Distinguishing AI-Generated Faces Through Geometric Measurement and Statistical Analysis in Excel
+252,PGBR-02-EE,Engineering: Electrical and Mechanical,Roxbury Latin School,Keeping Balance: Adaptive Anti-Fall Control for Robots Inspired by Biomimetic Lizard Tails and Reinforcement
+43,AB-44-EES,Earth and Environmental Science,Saint John's High School,Uncertainty Aware Storm Time Thermospheric Density Forecasting for Satellite Collision Risk Reduction
+51,GBR-04-BI,Biochemistry,Sharon High,Aggressive Algae: Preventing Harmful Algal Blooms
+78,GBR-32-BCMM,"Biology: Cellular, Molecular, or Microbiology",Sharon High,Insights into KMT2D Mutations in Colorectal Cancer: Implications for Immunotherapy Response and Targeted
+56,GBR-10-BI,Biochemistry,Shrewsbury Sr High,Investigations into Transduction Methods to Develop a Novel Wearable Biosensor to Detect Preclinical Allergic
+82,GBR-36-BCMM,"Biology: Cellular, Molecular, or Microbiology",Shrewsbury Sr High,Functional Analysis of Attenuated Amyloid-β Neurotoxicity via Pan-Neuronal Hsp104 Co-Expression Mediated by
+88,GBR-42-BCMM,"Biology: Cellular, Molecular, or Microbiology",Shrewsbury Sr High,Novel Programmable Metal-Organic Frameworks Synthesis for Airborne Neurotropic Viruses and Antiviral
+151,GBR-108-CH,Chemistry,Shrewsbury Sr High,Stopping Stones in Their Tracks: A Comparative In-Vitro Analysis of Natural Inhibitors of Calcium-Oxalate Kidney
+188,JBR-23-CS,Computer Science and Technology,Shrewsbury Sr High,NeuroFusion: An Novel Integrated Model Fusion Framework for Robust Cross-Pathology Classification
+189,JBR-24-CS,Computer Science and Technology,Shrewsbury Sr High,Analyzing Packet Transmissions In Low Power Wide Access Networks to identify zero-day Denial-of-Service
+205,JBR-40-CS,Computer Science and Technology,Shrewsbury Sr High,ENDO-EC: An Automated Early Esophageal Cancer Detection System via Image Classification and Lesion
+31,AB-32-EES,Earth and Environmental Science,Shrewsbury Sr High,Sustainable Sips: Engineering and Experimental Evaluation of Biodegradable Straw Formulations
+270,PGBR-21-EE,Engineering: Electrical and Mechanical,Shrewsbury Sr High,From Material to Intelligence: Using Conductive Hydrogels as Smart Skin for Robotic Devices
+271,PGBR-22-EE,Engineering: Electrical and Mechanical,Shrewsbury Sr High,Aerodynamic Optimization of a Bio-Inspired Autorotating Airdrop System: Reducing Landing Error and Impact
+272,PGBR-23-EE,Engineering: Electrical and Mechanical,Shrewsbury Sr High,Piezoelectric Energy Harvesting for Next-Generation Aircraft Systems
+60,GBR-14-BI,Biochemistry,Somerville High,Tracking ALS Severity Through Data Analysis
+235,CD-23-EB,Engineering: Biomedical,Somerville High,"Automated, Affordable Pill Dispenser to Support Caregivers and Individuals with Memory Challenges"
+7,AB-06-BE,Behavioral and Social Sciences,Southeastern Regional Vocational Technical,Protect Against Toxic Waste
+113,GBR-68-BEPA,"Biology: Evolution, Plant and Animal Science",Southeastern Regional Vocational Technical,Topical Soil Transplantation: A Novel PGPM Fertilization Strategy for V. radiata
+114,GBR-69-BEPA,"Biology: Evolution, Plant and Animal Science",Southeastern Regional Vocational Technical,Say Goodbye to Pests and Pesticides: Exploring the Effects of Potassium Soil Levels on Druse Idioblasts
+177,JBR-12-CS,Computer Science and Technology,Southeastern Regional Vocational Technical,TheraBee
+180,JBR-15-CS,Computer Science and Technology,Southeastern Regional Vocational Technical,Cyber Labs
+173,JBR-08-CS,Computer Science and Technology,St. John Paul II High School,Algorithmic Classification of Classical Piano Music by Composer
+174,JBR-09-CS,Computer Science and Technology,St. John Paul II High School,AI’s Ability to Answer Questions Spoken in Different Accents
+122,GBR-77-BEPA,"Biology: Evolution, Plant and Animal Science",St. Mark's School,Using Drosophila to Test Vitamin B's effect on SLE
+123,GBR-78-BEPA,"Biology: Evolution, Plant and Animal Science",St. Mark's School,The Effect of the Gut Microbiome on Mood-Related Behaviors in Drosophila
+119,GBR-74-BEPA,"Biology: Evolution, Plant and Animal Science",Sturgis East Charter Public School,Chlorella vulgaris in Conjunction with Nitrogen Fixing Bacteria as an Aid to Plant Health and Synthetic Fertilizer
+146,GBR-101-CH,Chemistry,Sturgis West Charter Public School,Fudge: How Specific Heat Capacity Affects the Phase Change of Heavy Cream
+147,GBR-103-CH,Chemistry,Sturgis West Charter Public School,"To Glow or Not To Glow, The Activation Energy of UV Reactive Paints"
+4,AB-03-BE,Behavioral and Social Sciences,Tabor Academy,"""BehavioSync"": Matricaria chamomilla Extract Attenuates Depressive-like Behaviors and Neurocognitive"
+69,GBR-23-BCMM,"Biology: Cellular, Molecular, or Microbiology",Tabor Academy,Investigating Spirulina Platensis Potential as a Therapeutics to Chronic NF-κB’s dysregulation in
+145,GBR-100-CH,Chemistry,Tabor Academy,Molecular Insights into Ion Selectivity using Functionalized Carbon Nanotubes
+251,PGBR-01-EE,Engineering: Electrical and Mechanical,Tabor Academy,Sensor-Based Multi-DOF Exoskeleton System for Running Form Analysis and Injury Rehabilitation
+265,PGBR-15-EE,Engineering: Electrical and Mechanical,Tabor Academy,Design of Passive and Actively Transmitted Elastic Structures for Humanoid Robotic Limbs
+93,GBR-47-BCMM,"Biology: Cellular, Molecular, or Microbiology",The Governor's Academy,Unlocking Response:Targeting the FTO-Dependent m6A Demethylation to Restore anti-PD-1 Efficacy in NSCLC
+281,PGBR-32-EE,Engineering: Electrical and Mechanical,The Governor's Academy,Development of a Modular Biomimetic Spinal Snow Rescue Robot
+164,GBR-123-MA,Mathematics and Computational Modeling,The Governor's Academy,How Network Parameters Shape Neural Cascades
+207,JBR-42-CS,Computer Science and Technology,The Greater Commonwealth Virtual School (GCVS) Reg 4,Identifying Novel Alzheimer’s Disease-Modifying Targets using Simulated Cell Output from Perturbation
+23,AB-23-EES,Earth and Environmental Science,The Winsor School,Exploration of Microplastic Uptake in Vegetables for Public Health
+86,GBR-40-BCMM,"Biology: Cellular, Molecular, or Microbiology",Wachusett Regional High,Modeling Celiac Immune Activity in C. elegans
+90,GBR-44-BCMM,"Biology: Cellular, Molecular, or Microbiology",Wachusett Regional High,Journey to an Unforgettable Future: The Effects of Lithium Nitrate on Drosophila Learning and Memory
+126,GBR-81-BEPA,"Biology: Evolution, Plant and Animal Science",Wachusett Regional High,The Effect of Algae Preventatives on the Propagation of Algae
+127,GBR-82-BEPA,"Biology: Evolution, Plant and Animal Science",Wachusett Regional High,The Effect of a Natural and Artificial Yellow Dye on Drosophila Populations and Preference
+128,GBR-83-BEPA,"Biology: Evolution, Plant and Animal Science",Wachusett Regional High,"The Effect of Activated Carbon on the Heart Rate and Daphnia magna Affected by Glyphosate and 2, 4-D"
+134,GBR-89-BEPA,"Biology: Evolution, Plant and Animal Science",Wachusett Regional High,The Effect of Glow-in-the-Dark Microplastics on the Growth and Fluorescence of Hydroponically Grown Mint
+319,PJBR-08-PH,Physics,Wachusett Regional High,Turning The Tide
+320,PJBR-09-PH,Physics,Wachusett Regional High,The Effect of Beadwork Thread Material on Thread Strength
+322,PJBR-11-PH,Physics,Wachusett Regional High,A Recipe for Success: The Effect of Variation in Bioplastics Recipes on the Tensile Strength of the Bioplastics
+246,CD-35-EB,Engineering: Biomedical,Walpole High,Video-Based Measurement of the Pupillary Light Reflex for Baseline Neurological Analysis
+48,GBR-01-BI,Biochemistry,Wayland High School,Evaluating Low Cost Methods for Sterilizing Breast Pump Components in Low-Resource Settings
+76,GBR-30-BCMM,"Biology: Cellular, Molecular, or Microbiology",Wellesley Sr High,"Phospholipid Deletion Alters Lipid Metabolism, Growth, and Stress Response in Mycobacterium smegmatis"
+178,JBR-13-CS,Computer Science and Technology,Wellesley Sr High,ShotOpt: Multimodal AI-IMU-Physics Framework for Basketball Shooting Analysis and Optimization
+73,GBR-27-BCMM,"Biology: Cellular, Molecular, or Microbiology",West Springfield High,Natural versus Synthetic Skincare Products
+83,GBR-37-BCMM,"Biology: Cellular, Molecular, or Microbiology",Westborough High,Using Senolytics to Rescue Cognitive Function in a Mouse Model of Alzheimer’s Disease Through Selective
+206,JBR-41-CS,Computer Science and Technology,Westborough High,Repurposing FDA Approved Drugs to Fight Neglected Tropical Diseases Using Deep Learning
+248,CD-37-EB,Engineering: Biomedical,Westborough High,A Low-Cost Edge Sweat Sensor That Audibly Alerts Athletes of Rising Dehydration Risk
+72,GBR-26-BCMM,"Biology: Cellular, Molecular, or Microbiology",Westfield High School,Mycoremediation Utilizing Pleurotus ostreatus var. columbinus to Degrade Plastic
+115,GBR-70-BEPA,"Biology: Evolution, Plant and Animal Science",Westfield High School,Acheta domesticus Consumption Rates as a Function of Varying Electromagnetic Wavelengths
+116,GBR-71-BEPA,"Biology: Evolution, Plant and Animal Science",Westfield High School,How Plant Spacing Affects Growth Rate
+144,GBR-99-CH,Chemistry,Westfield High School,Analyzing How Different Tinted Glass Bottles Withstand Chemical Migration Against Solarization
+25,AB-25-EES,Earth and Environmental Science,Westfield High School,Exposing the Effects of Noise Pollution Through Eisenia hortensis
+264,PGBR-14-EE,Engineering: Electrical and Mechanical,Westfield High School,Designing An Alternative Energy Source That Is Cost Efficient
+63,GBR-17-BI,Biochemistry,Westford Academy,Physics-Informed Compositional Transformers for Predicting Viscosity of Protein Formulations from Amino Acid
+244,CD-33-EB,Engineering: Biomedical,Westford Academy,Non-invasive Glucose Monitoring Using Multi-Wavelength Optical Polarimetry
+118,GBR-73-BEPA,"Biology: Evolution, Plant and Animal Science",Weston High,The Secret Language of Mycelium
+254,PGBR-04-EE,Engineering: Electrical and Mechanical,Weston High,"A Lightweight, Durable Exoskeleton for Patients With Muscle Tremors"
+262,PGBR-12-EE,Engineering: Electrical and Mechanical,Weston High,"Foldable Body, Unfolded Capability: Structural Properties and Functional Applications of A Novel Yoshimura"
+142,GBR-97-CH,Chemistry,Wilbraham & Monson Academy,Size and Distance Dependent Plasmonic Enhancement in Tannic Acid Modified Silver Nanoparticle Luminol
+260,PGBR-10-EE,Engineering: Electrical and Mechanical,Williston Northampton School,Gesture-Controlled Biomimetic Squid Robot Using Wearable Wristband Technology
+261,PGBR-11-EE,Engineering: Electrical and Mechanical,Williston Northampton School,Amphibious Spiral Pipeline Robot Equipped with Multi-sensor Monitoring System
+84,GBR-38-BCMM,"Biology: Cellular, Molecular, or Microbiology",Winchester High School,Effect of Mushroom-Bacteria Co-culture on the Antimicrobial Effects of Mushrooms
+148,GBR-104-CH,Chemistry,Winchester High School,Using Heat and Vibration to Relieve Menstrual Pain
+42,AB-43-EES,Earth and Environmental Science,Winchester High School,From Clear to Cloudy: Uncovering the Complex Factors Shaping Pond Water Quality
+232,CD-20-EB,Engineering: Biomedical,Winchester High School,Dietary Antioxidants Protect the Intestinal Barrier: Evidence from an Inflamed Human Cell Model
+16,AB-16-BE,Behavioral and Social Sciences,Worcester Academy,Beyond Food and Fitness: Highlighting the Role of Adverse Childhood Experiences in Youth Obesity
+104,GBR-58-BCMM,"Biology: Cellular, Molecular, or Microbiology",Worcester Academy,Different Herbal Extract's Antibiotic Effects on Bacteria
+32,AB-33-EES,Earth and Environmental Science,Worcester Academy,Dose-Dependent Transfer of PFAS from Irrigation Water to Edible Tissues of Radish and Lettuce and Evaluation of
+274,PGBR-25-EE,Engineering: Electrical and Mechanical,Worcester Academy,Inflatable Soft Wearable Knee Joint Rehabilitation Device
+161,GBR-120-MA,Mathematics and Computational Modeling,Worcester Academy,"LLM-Driven Text Signals in Multi-Round Prediction Markets: Bayesian Updating, Fractional-Kelly Betting, and"
+107,GBR-61-BCMM,"Biology: Cellular, Molecular, or Microbiology",Worcester Technical High,Impacts of Efflux Pumps Inhibitors on Antibiotic Sensitivity
+200,JBR-35-CS,Computer Science and Technology,Worcester Technical High,American Sign Language Detection Using Machine Learning Algorithms
