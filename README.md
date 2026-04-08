@@ -2,6 +2,24 @@
 
 This repository contains a reproducible parser and cleaned outputs for the uploaded PDF `2026HS-Abstract-final.pdf`.
 
+msef-school-domain-summary/
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── data/
+│   ├── abstract_index.csv
+│   ├── school_domain_counts.csv
+│   ├── school_domain_counts.md
+│   └── school_totals.csv
+├── scripts/
+│   └── parse_msef_abstracts.py
+└── wiki/
+    ├── Home.md
+    ├── Data-Dictionary.md
+    ├── Methodology.md
+    └── Usage.md
+    
+
 ## Included files
 - `data/abstract_index.csv`
 - `data/school_domain_counts.csv`
